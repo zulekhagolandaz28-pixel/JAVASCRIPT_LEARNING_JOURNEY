@@ -6,7 +6,8 @@ I will add the code, examples, and practice questions for each topic as I learn 
 
 ## Topics Covered
 
-- Primitive (Value) Types
-- Reference Types
+- Primitive (Value) Types.
+- Reference Types.
+- Operators. 
 
 More topics will be added as I continue learning JavaScript.
