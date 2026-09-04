@@ -9,5 +9,6 @@ I will add the code, examples, and practice questions for each topic as I learn 
 - Primitive (Value) Types.
 - Reference Types.
 - Operators. 
+- Conditional Statements.
 
 More topics will be added as I continue learning JavaScript.
