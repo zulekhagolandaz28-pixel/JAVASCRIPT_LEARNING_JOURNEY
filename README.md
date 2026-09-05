@@ -15,5 +15,6 @@ I will add the code, examples, and practice questions for each topic as I learn 
 - Arrow Functions.
 - Array Methods.
 - Destructing.
+- Spread Operator.
 
 More topics will be added as I continue learning JavaScript.
