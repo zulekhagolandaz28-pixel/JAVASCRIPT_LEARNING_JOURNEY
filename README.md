@@ -13,5 +13,6 @@ I will add the code, examples, and practice questions for each topic as I learn 
 - Loops.
 - Functions.
 - Arrow Functions.
+- Array Methods.
 
 More topics will be added as I continue learning JavaScript.
