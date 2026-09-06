@@ -17,5 +17,6 @@ I will add the code, examples, and practice questions for each topic as I learn 
 - Destructing.
 - Spread Operator.
 - CallBacks.
+- DOM & Events.
 
 More topics will be added as I continue learning JavaScript.
