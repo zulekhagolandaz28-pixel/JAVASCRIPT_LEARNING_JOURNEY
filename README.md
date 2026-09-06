@@ -18,5 +18,6 @@ I will add the code, examples, and practice questions for each topic as I learn 
 - Spread Operator.
 - CallBacks.
 - DOM and Events.
+- Asynchronous JavaScript.
 
 More topics will be added as I continue learning JavaScript.
