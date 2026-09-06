@@ -19,5 +19,6 @@ I will add the code, examples, and practice questions for each topic as I learn 
 - CallBacks.
 - DOM and Events.
 - Asynchronous JavaScript.
+- Promises.
 
 More topics will be added as I continue learning JavaScript.
