@@ -21,5 +21,6 @@ I will add the code, examples, and practice questions for each topic as I learn 
 - Asynchronous JavaScript.
 - Promises.
 - Async & Await.
+- Fetch & API basics.
 
 More topics will be added as I continue learning JavaScript.
